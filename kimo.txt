@@ -1,1 +1,7 @@
-apa
+Whats New on version 15 ?
+
+- Ichigo
+- Meliodas
+
+
+Bug Fixed
