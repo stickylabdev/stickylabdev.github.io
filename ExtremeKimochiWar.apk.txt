@@ -1,1 +1,0 @@
-{"ip":"36.71.238.80","country_code":"ID","country_name":"Indonesia","region_code":"JB","region_name":"West Java","city":"Cimahi","zip_code":"","time_zone":"Asia/Jakarta","latitude":-6.6983,"longitude":107.2753,"metro_code":0}
