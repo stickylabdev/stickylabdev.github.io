@@ -21,10 +21,19 @@
       "free": "yes"
     },
     {
-      "name": "Geometric Ball",
+      "name": "Alhamdulillah bisa gaes",
       "description": "A large ball",
       "price": 325,
       "image": "https://a.imge.to/2019/08/23/mi96C.png",
+      "size": 4,
+      "weight": "3",
+      "free": "yes"
+    },
+        {
+      "name": "idle 4",
+      "description": "A large ball",
+      "price": 325,
+      "image": "https://b.imge.to/2019/08/22/mzGBA.png",
       "size": 4,
       "weight": "3",
       "free": "yes"
