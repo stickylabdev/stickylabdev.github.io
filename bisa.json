@@ -1,7 +1,7 @@
 {
 
   
-  "balls": [
+  "super": [
     {
       "idle": "https://b.imge.to/2019/08/22/mwddj.png"
     },
@@ -14,23 +14,26 @@
     {
       "idle": "https://b.imge.to/2019/08/22/mwJy0.png"
     },
+    
+    
+    
     {
-      "idle": "https://b.imge.to/2019/08/22/mwGkf.png"
+      "run": "https://b.imge.to/2019/08/22/mwGkf.png"
     },
     {
-      "idle": "https://a.imge.to/2019/08/22/mwSXj.png"
+      "run": "https://a.imge.to/2019/08/22/mwSXj.png"
     },
     {
-      "idle": "https://b.imge.to/2019/08/22/mzseh.png"
+      "run": "https://b.imge.to/2019/08/22/mzseh.png"
     },
     {
-      "idle": "https://a.imge.to/2019/08/22/mzy1w.png"
+      "run": "https://a.imge.to/2019/08/22/mzy1w.png"
     },
      {
-      "idle": "https://b.imge.to/2019/08/22/mzPby.png"
+      "run": "https://b.imge.to/2019/08/22/mzPby.png"
     },
     {
-      "idle": "https://a.imge.to/2019/08/22/mzUDt.png"
+      "run": "https://a.imge.to/2019/08/22/mzUDt.png"
     },
     
     
