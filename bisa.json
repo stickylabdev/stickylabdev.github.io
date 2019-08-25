@@ -40,93 +40,104 @@
     
     
      {
-      "idle": "https://a.imge.to/2019/08/22/mze62.png"
+      "jump": "https://a.imge.to/2019/08/22/mze62.png"
     },
     {
-      "idle": "https://b.imge.to/2019/08/22/mzGBA.png"
+      "jump": "https://b.imge.to/2019/08/22/mzGBA.png"
     },
     
     
     
     
      {
-      "idle": "https://b.imge.to/2019/08/23/mitqs.png"
+      "hurt": "https://b.imge.to/2019/08/23/mitqs.png"
     },
     {
-      "idle": "https://a.imge.to/2019/08/23/mi96C.png"
+      "hurt": "https://a.imge.to/2019/08/23/mi96C.png"
     },
     
     
 
      {
-      "idle": "https://b.imge.to/2019/08/23/miYBH.png"
+      "die": "https://b.imge.to/2019/08/23/miYBH.png"
     },
     {
-      "idle": "https://a.imge.to/2019/08/23/mihgW.png"
+      "die": "https://a.imge.to/2019/08/23/mihgW.png"
     },
      {
-      "idle": "https://b.imge.to/2019/08/23/miuwm.png"
-    },
-         {
-      "idle": "https://b.imge.to/2019/08/25/iUK3y.png"
+      "die": "https://b.imge.to/2019/08/23/miuwm.png"
     },
     
+    
+    
          {
-      "idle": "https://a.imge.to/2019/08/25/iUSsG.png"
+      "land": "https://b.imge.to/2019/08/25/iUK3y.png"
+    },
+    
+    
+    
+    
+    
+         {
+      "atck1": "https://a.imge.to/2019/08/25/iUSsG.png"
     },
     {
-      "idle": "https://b.imge.to/2019/08/25/igUEO.png"
+      "atck1": "https://b.imge.to/2019/08/25/igUEO.png"
     },
      {
-      "idle": "https://b.imge.to/2019/08/25/igsNx.png"
+      "atck1": "https://b.imge.to/2019/08/25/igsNx.png"
     },
          {
-      "idle": "https://b.imge.to/2019/08/25/igy00.png"
+      "atck1": "https://b.imge.to/2019/08/25/igy00.png"
     },
     
       {
-      "idle": "https://b.imge.to/2019/08/25/igkAm.png"
+      "atck1": "https://b.imge.to/2019/08/25/igkAm.png"
     },
     {
-      "idle": "https://b.imge.to/2019/08/25/iggVq.png"
+      "atck1": "https://b.imge.to/2019/08/25/iggVq.png"
     },
      {
-      "idle": "https://b.imge.to/2019/08/25/igvx1.png"
+      "atck1": "https://b.imge.to/2019/08/25/igvx1.png"
     },
          {
-      "idle": "https://a.imge.to/2019/08/25/ig436.png"
+      "atck1": "https://a.imge.to/2019/08/25/ig436.png"
+    },
+    
+    
+    
+    
+             {
+      "atck2": "https://b.imge.to/2019/08/25/ig8Jj.png"
+    },
+    
+      {
+      "atck2": "https://b.imge.to/2019/08/25/igQ7T.png"
+    },
+    {
+      "atck2": "https://b.imge.to/2019/08/25/igO4w.png"
+    },
+     {
+      "atck2": "https://b.imge.to/2019/08/25/igfKR.png"
+    },
+         {
+      "atck2": "https://b.imge.to/2019/08/25/ig6Ff.png"
     },
              {
-      "idle": "https://b.imge.to/2019/08/25/ig8Jj.png"
+      "atck2": "https://a.imge.to/2019/08/25/igVph.png"
     },
     
       {
-      "idle": "https://b.imge.to/2019/08/25/igQ7T.png"
+      "atck2": "https://a.imge.to/2019/08/25/igxyZ.png"
     },
     {
-      "idle": "https://b.imge.to/2019/08/25/igO4w.png"
+      "atck2": "https://a.imge.to/2019/08/25/igmat.png"
     },
      {
-      "idle": "https://b.imge.to/2019/08/25/igfKR.png"
+      "atck2": "https://a.imge.to/2019/08/25/igbQy.png"
     },
          {
-      "idle": "https://b.imge.to/2019/08/25/ig6Ff.png"
-    },
-             {
-      "idle": "https://a.imge.to/2019/08/25/igVph.png"
-    },
-    
-      {
-      "idle": "https://a.imge.to/2019/08/25/igxyZ.png"
-    },
-    {
-      "idle": "https://a.imge.to/2019/08/25/igmat.png"
-    },
-     {
-      "idle": "https://a.imge.to/2019/08/25/igbQy.png"
-    },
-         {
-      "idle": "https://b.imge.to/2019/08/25/ig7ZG.png"
+      "atck2": "https://b.imge.to/2019/08/25/ig7ZG.png"
     }
     
     
