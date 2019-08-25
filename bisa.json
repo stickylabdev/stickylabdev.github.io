@@ -3,68 +3,32 @@
   "playerName": "Ball Shop",
   "balls": [
     {
-      "name": "Bomb Frenzy",
-      "description": "Check out the app",
-      "price": 400,
       "image": "http://leatonm.net/wp-content/uploads/2018/07/BombFrenzy-Icon.png",
-      "size": 3,
-      "weight": "2.5",
-      "free": "no"
+    
+      
     },
     {
-      "name": "Geometric Ball",
-      "description": "A large ball",
-      "price": 325,
+
+      
       "image": "https://blog.spoongraphics.co.uk/wp-content/uploads/2013/icy-geometric/16.jpg",
-      "size": 4,
-      "weight": "3",
-      "free": "yes"
+   
+      
     },
     {
-      "name": "Alhamdulillah bisa gaes",
-      "description": "A large ball",
-      "price": 325,
+   
+      
       "image": "https://a.imge.to/2019/08/23/mi96C.png",
-      "size": 4,
-      "weight": "3",
-      "free": "yes"
+  
+      
     },
         {
-      "name": "idle 4",
-      "description": "A large ball",
-      "price": 325,
+   
+          
       "image": "https://b.imge.to/2019/08/22/mzGBA.png",
-      "size": 4,
-      "weight": "3",
-      "free": "yes"
+  
+          
     }
   ],
-  "loadingImages": [
-    {
-      "image": "http://leatonm.net/wp-content/uploads/2018/12/loadingImage4.png"
-    },
-    {
-      "image": "http://leatonm.net/wp-content/uploads/2018/12/loadingImage3.png"
-    },
-    {
-      "image": "http://leatonm.net/wp-content/uploads/2018/12/loadingImage2.png"
-    },
-    {
-      "image": "http://leatonm.net/wp-content/uploads/2018/12/loadingImage1.png"
-    }
-  ],
-  "startupTips": [
-    {
-      "tip": "Try bowling Candlepin Style in real life"
-    },
-    {
-      "tip": "Use QUICK PLAY to practice"
-    },
-    {
-      "tip": "Try holding the phone with one hand, throw with the other"
-    },
-    {
-      "tip": "Every pin counts"
-    }
-  ]
+ 
+  
 }
