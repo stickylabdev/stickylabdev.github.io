@@ -13,7 +13,10 @@
     },
     {
       "idle": "https://b.imge.to/2019/08/22/mwJy0.png"
-    },
+    }
+    ],
+  
+   "run": [
     
     
     
@@ -34,9 +37,9 @@
     },
     {
       "run": "https://a.imge.to/2019/08/22/mzUDt.png"
-    },
-    
-    
+    }
+    ],
+     "jump": [
     
     
      {
@@ -44,9 +47,11 @@
     },
     {
       "jump": "https://b.imge.to/2019/08/22/mzGBA.png"
-    },
+    }
     
-    
+    ],
+  
+   "hurt": [
     
     
      {
@@ -54,8 +59,11 @@
     },
     {
       "hurt": "https://a.imge.to/2019/08/23/mi96C.png"
-    },
+    }
     
+     ],
+  
+   "die": [
     
 
      {
@@ -66,15 +74,19 @@
     },
      {
       "die": "https://b.imge.to/2019/08/23/miuwm.png"
-    },
+    }
     
-    
+    ],
+  
+   "land": [
     
          {
       "land": "https://b.imge.to/2019/08/25/iUK3y.png"
-    },
+    }
     
-    
+    ] ,
+  
+   "atck1": [
     
     
     
@@ -102,7 +114,9 @@
     },
          {
       "atck1": "https://a.imge.to/2019/08/25/ig436.png"
-    },
+    }],
+  
+   "atck2": [
     
     
     
@@ -141,7 +155,9 @@
     }
     
     
-    ,
+    ] ,
+  
+   "atck3": [
     
            {
       "atck3": "https://b.imge.to/2019/08/25/i33t2.png"
@@ -182,7 +198,9 @@
     ,
       {
       "atck3": "https://b.imge.to/2019/08/25/ijSi0.png"
-    } ,
+    } ],
+  
+   "atck4": [
     
           {
       "atck4": "https://a.imge.to/2019/08/25/i3L6C.png"
@@ -195,7 +213,9 @@
       {
       "atck4": "https://a.imge.to/2019/08/25/i31BH.png"
     }
-,
+],
+
+ "hit1": [
       
       {
       "hit1": "https://a.imge.to/2019/08/25/i3f8j.png"
@@ -227,7 +247,9 @@
       "hit1": "https://a.imge.to/2019/08/25/i38jw.png"
     }
     
-    ,   
+    ],
+
+ "hit2": [
     {
       "hit2": "https://b.imge.to/2019/08/25/i3Cq0.png"
     }
@@ -250,7 +272,9 @@
         {
       "hit2": "https://a.imge.to/2019/08/25/i3az6.png"
     }
-    ,
+    ],
+
+ "hit3": [
         {
       "hit3": "https://b.imge.to/2019/08/25/i3WzW.png"
     }
@@ -270,6 +294,7 @@
         {
       "hit3": "https://b.imge.to/2019/08/25/i3eYm.png"
     }
+   ]
     
     
     
@@ -284,8 +309,5 @@
     
     
     
-    
-    
-    
-  ]
+  
 }
