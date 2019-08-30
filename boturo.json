@@ -1,229 +1,229 @@
 {
-   "super":[
-      {
-         "idle":"https://c.imge.to/2019/08/29/vvuCTm.png"
-      },
-      {
-         "idle":"https://c.imge.to/2019/08/29/vvuYUV.png"
-      },
-      {
-         "idle":"https://c.imge.to/2019/08/29/vvutui.png"
-      },
-      {
-         "idle":"https://c.imge.to/2019/08/29/vvuXMF.png"
-      }
-   ],
-   "run":[
-      {
-         "run":"https://c.imge.to/2019/08/29/vvuff2.png"
-      },
-      {
-         "run":"https://a.imge.to/2019/08/29/vvuMuA.png"
-      },
-      {
-         "run":"https://c.imge.to/2019/08/29/vvuzD6.png"
-      },
-      {
-         "run":"https://c.imge.to/2019/08/29/vvuQT4.png"
-      },
-      {
-         "run":"https://c.imge.to/2019/08/29/vvuwOr.png"
-      },
-      {
-         "run":"https://c.imge.to/2019/08/29/vvul1q.png"
-      }
-   ],
-   "jump":[
-      {
-         "jump":"https://b.imge.to/2019/08/29/vvB4Vw.png"
-      },
-      {
-         "jump":"https://b.imge.to/2019/08/29/vvBIpy.png"
-      }
-   ],
-   "hurt":[
-      {
-         "hurt":"https://a.imge.to/2019/08/29/vvBgKj.png"
-      },
-      {
-         "hurt":"https://a.imge.to/2019/08/29/vvB3Eh.png"
-      }
-   ],
-   "die":[
-      {
-         "die":"https://c.imge.to/2019/08/29/vvBEYG.png"
-      },
-      {
-         "die":"https://c.imge.to/2019/08/29/vvBc3t.png"
-      },
-      {
-         "die":"https://c.imge.to/2019/08/29/vvBqAZ.png"
-      }
-   ],
-   "land":[
-      {
-         "land":"https://a.imge.to/2019/08/29/vvBLvx.png"
-      }
-   ],
-   "atck1":[
-      {
-         "atck1":"https://a.imge.to/2019/08/25/iUSsG.png"
-      },
-      {
-         "atck1":"https://b.imge.to/2019/08/25/igUEO.png"
-      },
-      {
-         "atck1":"https://b.imge.to/2019/08/25/igsNx.png"
-      },
-      {
-         "atck1":"https://b.imge.to/2019/08/25/igy00.png"
-      },
-      {
-         "atck1":"https://b.imge.to/2019/08/25/igkAm.png"
-      },
-      {
-         "atck1":"https://b.imge.to/2019/08/25/iggVq.png"
-      },
-      {
-         "atck1":"https://b.imge.to/2019/08/25/igvx1.png"
-      },
-      {
-         "atck1":"https://a.imge.to/2019/08/25/ig436.png"
-      }
-   ],
-   "atck2":[
-      {
-         "atck2":"https://b.imge.to/2019/08/25/ig8Jj.png"
-      },
-      {
-         "atck2":"https://b.imge.to/2019/08/25/igQ7T.png"
-      },
-      {
-         "atck2":"https://b.imge.to/2019/08/25/igO4w.png"
-      },
-      {
-         "atck2":"https://b.imge.to/2019/08/25/igfKR.png"
-      },
-      {
-         "atck2":"https://b.imge.to/2019/08/25/ig6Ff.png"
-      },
-      {
-         "atck2":"https://a.imge.to/2019/08/25/igVph.png"
-      },
-      {
-         "atck2":"https://a.imge.to/2019/08/25/igxyZ.png"
-      },
-      {
-         "atck2":"https://a.imge.to/2019/08/25/igmat.png"
-      },
-      {
-         "atck2":"https://a.imge.to/2019/08/25/igbQy.png"
-      },
-      {
-         "atck2":"https://b.imge.to/2019/08/25/ig7ZG.png"
-      }
-   ],
-   "atck3":[
-      {
-         "atck3":"https://b.imge.to/2019/08/25/i33t2.png"
-      },
-      {
-         "atck3":"https://a.imge.to/2019/08/25/i3jw4.png"
-      },
-      {
-         "atck3":"https://a.imge.to/2019/08/25/i3P2r.png"
-      },
-      {
-         "atck3":"https://a.imge.to/2019/08/25/i3gg6.png"
-      },
-      {
-         "atck3":"https://a.imge.to/2019/08/25/i34SA.png"
-      },
-      {
-         "atck3":"https://b.imge.to/2019/08/25/i3vcO.png"
-      },
-      {
-         "atck3":"https://b.imge.to/2019/08/25/i3y6q.png"
-      },
-      {
-         "atck3":"https://b.imge.to/2019/08/25/ijGm1.png"
-      },
-      {
-         "atck3":"https://b.imge.to/2019/08/25/ije5x.png"
-      },
-      {
-         "atck3":"https://b.imge.to/2019/08/25/ijSi0.png"
-      }
-   ],
-   "atck4":[
-      {
-         "atck4":"https://a.imge.to/2019/08/25/i3L6C.png"
-      },
-      {
-         "atck4":"https://a.imge.to/2019/08/25/i3HgW.png"
-      },
-      {
-         "atck4":"https://a.imge.to/2019/08/25/i31BH.png"
-      }
-   ],
-   "hit1":[
-      {
-         "hit1":"https://a.imge.to/2019/08/29/vvBkp6.png"
-      },
-      {
-         "hit1":"https://a.imge.to/2019/08/29/vvBkp6.png"
-      },
-      {
-         "hit1":"https://a.imge.to/2019/08/29/vvBZFq.png"
-      },
-      {
-         "hit1":"https://a.imge.to/2019/08/29/vvBHKO.png"
-      },
-      {
-         "hit1":"https://a.imge.to/2019/08/29/vvBdVr.png"
-      },
-      {
-         "hit1":"https://a.imge.to/2019/08/29/vvBdVr.png"
-      }
-   ],
-   "hit2":[
-      {
-         "hit2":"https://a.imge.to/2019/08/29/vvBbpW.png"
-      },
-      {
-         "hit2":"https://a.imge.to/2019/08/29/vvBbpW.png"
-      },
-      {
-         "hit2":"https://a.imge.to/2019/08/29/vvBOJH.png"
-      },
-      {
-         "hit2":"https://a.imge.to/2019/08/29/vvBOJH.png"
-      },
-      {
-         "hit2":"https://a.imge.to/2019/08/29/vvBo4m.png"
-      },
-      {
-         "hit2":"https://a.imge.to/2019/08/29/vvBxQF.png"
-      },
-      {
-         "hit2":"https://a.imge.to/2019/08/29/vvBxQF.png"
-      }
-   ],
-   "hit3":[
-      {
-         "hit3":"https://c.imge.to/2019/08/29/vvBJFC.png"
-      },
-      {
-         "hit3":"https://c.imge.to/2019/08/29/vvBJFC.png"
-      },
-      {
-         "hit3":"https://c.imge.to/2019/08/29/vvB67k.png"
-      },
-      {
-         "hit3":"https://c.imge.to/2019/08/29/vvB67k.png"
-      },
-      {
-         "hit3":"https://c.imge.to/2019/08/29/vvBMZY.png"
-      }
-   ]
+  "super": [
+    {
+      "idle": "https://c.imge.to/2019/08/30/vyF8GZ.png"
+    },
+    {
+      "idle": "https://c.imge.to/2019/08/30/vyFObx.png"
+    },
+    {
+      "idle": "https://c.imge.to/2019/08/30/vyFbi1.png"
+    },
+    {
+      "idle": "https://c.imge.to/2019/08/30/vyF8GZ.png"
+    }
+  ],
+  "run": [
+    {
+      "run": "https://a.imge.to/2019/08/30/vyFtl6.png"
+    },
+    {
+      "run": "https://a.imge.to/2019/08/30/vyFYG2.png"
+    },
+    {
+      "run": "https://b.imge.to/2019/08/30/vyFh5A.png"
+    },
+    {
+      "run": "https://a.imge.to/2019/08/30/vyF9t4.png"
+    },
+    {
+      "run": "https://a.imge.to/2019/08/30/vyFumU.png"
+    },
+    {
+      "run": "https://b.imge.to/2019/08/30/vyF2iY.png"
+    }
+  ],
+  "jump": [
+    {
+      "jump": "https://c.imge.to/2019/08/30/vyFnlW.png"
+    },
+    {
+      "jump": "https://c.imge.to/2019/08/30/vyFigH.png"
+    }
+  ],
+  "hurt": [
+    {
+      "hurt": "https://a.imge.to/2019/08/30/vyF0tm.png"
+    },
+    {
+      "hurt": "https://a.imge.to/2019/08/30/vyFKSF.png"
+    }
+  ],
+  "die": [
+    {
+      "die": "https://c.imge.to/2019/08/30/vyFSnT.png"
+    },
+    {
+      "die": "https://c.imge.to/2019/08/30/vyLvcR.png"
+    },
+    {
+      "die": "https://c.imge.to/2019/08/30/vyFGmV.png"
+    }
+  ],
+  "land": [
+    {
+      "land": "https://a.imge.to/2019/08/30/vyLy6f.png"
+    }
+  ],
+  "atck1": [
+    {
+      "atck1": "https://b.imge.to/2019/08/30/vyLcmG.png"
+    },
+    {
+      "atck1": "https://b.imge.to/2019/08/30/vyLqnx.png"
+    },
+    {
+      "atck1": "https://a.imge.to/2019/08/30/vyL39y.png"
+    },
+    {
+      "atck1": "https://a.imge.to/2019/08/30/vyLFq1.png"
+    },
+    {
+      "atck1": "https://a.imge.to/2019/08/30/vyL4St.png"
+    },
+    {
+      "atck1": "https://a.imge.to/2019/08/30/vyL4St.png"
+    },
+    {
+      "atck1": "https://a.imge.to/2019/08/30/vyL4St.png"
+    },
+    {
+      "atck1": "https://a.imge.to/2019/08/30/vyL4St.png"
+    }
+  ],
+  "atck2": [
+    {
+      "atck2": "https://b.imge.to/2019/08/30/vy18Jx.png"
+    },
+    {
+      "atck2": "https://b.imge.to/2019/08/30/vy18Jx.png"
+    },
+    {
+      "atck2": "https://b.imge.to/2019/08/30/vy18Jx.png"
+    },
+    {
+      "atck2": "https://b.imge.to/2019/08/30/vy18Jx.png"
+    },
+    {
+      "atck2": "https://a.imge.to/2019/08/30/vy16FG.png"
+    },
+    {
+      "atck2": "https://a.imge.to/2019/08/30/vy1Ady.png"
+    },
+    {
+      "atck2": "https://a.imge.to/2019/08/30/vy16FG.png"
+    },
+    {
+      "atck2": "https://a.imge.to/2019/08/30/vy1Ady.png"
+    },
+    {
+      "atck2": "https://a.imge.to/2019/08/30/vy1Ady.png"
+    },
+    {
+      "atck2": "https://a.imge.to/2019/08/30/vy16FG.png"
+    }
+  ],
+  "atck3": [
+    {
+      "atck3": "https://b.imge.to/2019/08/30/vyLooi.png"
+    },
+    {
+      "atck3": "https://b.imge.to/2019/08/30/vyLooi.png"
+    },
+    {
+      "atck3": "https://b.imge.to/2019/08/30/vyLx0V.png"
+    },
+    {
+      "atck3": "https://b.imge.to/2019/08/30/vyLx0V.png"
+    },
+    {
+      "atck3": "https://a.imge.to/2019/08/30/vyLCET.png"
+    },
+    {
+      "atck3": "https://a.imge.to/2019/08/30/vyLJ9W.png"
+    },
+    {
+      "atck3": "https://a.imge.to/2019/08/30/vyLVzH.png"
+    },
+    {
+      "atck3": "https://a.imge.to/2019/08/30/vyLVzH.png"
+    },
+    {
+      "atck3": "https://a.imge.to/2019/08/30/vyLbsm.png"
+    },
+    {
+      "atck3": "https://a.imge.to/2019/08/30/vyLbsm.png"
+    }
+  ],
+  "atck4": [
+    {
+      "atck4": "https://b.imge.to/2019/08/30/vyLQqY.png"
+    },
+    {
+      "atck4": "https://b.imge.to/2019/08/30/vyLf8k.png"
+    },
+    {
+      "atck4": "https://b.imge.to/2019/08/30/vyLMRs.png"
+    }
+  ],
+  "hit1": [
+    {
+      "hit1": "https://b.imge.to/2019/08/30/vyLcmG.png"
+    },
+    {
+      "hit1": "https://b.imge.to/2019/08/30/vyLcmG.png"
+    },
+    {
+      "hit1": "https://b.imge.to/2019/08/30/vyLqnx.png"
+    },
+    {
+      "hit1": "https://a.imge.to/2019/08/30/vyL39y.png"
+    },
+    {
+      "hit1": "https://a.imge.to/2019/08/30/vyLFq1.png"
+    },
+    {
+      "hit1": "https://a.imge.to/2019/08/30/vyLFq1.png"
+    }
+  ],
+  "hit2": [
+    {
+      "hit2": "https://b.imge.to/2019/08/30/vyLooi.png"
+    },
+    {
+      "hit2": "https://b.imge.to/2019/08/30/vyLx0V.png"
+    },
+    {
+      "hit2": "https://a.imge.to/2019/08/30/vyLCET.png"
+    },
+    {
+      "hit2": "https://a.imge.to/2019/08/30/vyLJ9W.png"
+    },
+    {
+      "hit2": "https://a.imge.to/2019/08/30/vyLmNF.png"
+    },
+    {
+      "hit2": "https://a.imge.to/2019/08/30/vyLVzH.png"
+    },
+    {
+      "hit2": "https://a.imge.to/2019/08/30/vyLbsm.png"
+    }
+  ],
+  "hit3": [
+    {
+      "hit3": "https://b.imge.to/2019/08/30/vyLQqY.png"
+    },
+    {
+      "hit3": "https://b.imge.to/2019/08/30/vyLQqY.png"
+    },
+    {
+      "hit3": "https://b.imge.to/2019/08/30/vyLf8k.png"
+    },
+    {
+      "hit3": "https://b.imge.to/2019/08/30/vyLMRs.png"
+    },
+    {
+      "hit3": "https://b.imge.to/2019/08/30/vyLMRs.png"
+    }
+  ]
 }
