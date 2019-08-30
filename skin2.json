@@ -1,0 +1,315 @@
+{
+
+  
+  "super": [
+    {
+      "idle": "https://c.imge.to/2019/08/30/vyF8GZ.png"
+    },
+    {
+      "idle": "https://c.imge.to/2019/08/30/vyFObx.png"
+    },
+    {
+      "idle": "https://c.imge.to/2019/08/30/vyFbi1.png"
+    },
+    {
+      "idle": "https://c.imge.to/2019/08/30/vyF8GZ.png"
+    }
+    ],
+  
+   "run": [
+    
+    
+    
+    {
+      "run": "https://a.imge.to/2019/08/29/vv0m5A.png"
+    },
+    {
+      "run": "https://a.imge.to/2019/08/29/vv0t2C.png"
+    },
+    {
+      "run": "https://a.imge.to/2019/08/29/vv0xiY.png"
+    },
+    {
+      "run": "https://a.imge.to/2019/08/29/vv0X6s.png"
+    },
+     {
+      "run": "https://a.imge.to/2019/08/29/vv0omU.png"
+    },
+    {
+      "run": "https://b.imge.to/2019/08/29/vv0Cck.png"
+    }
+    ],
+     "jump": [
+    
+    
+     {
+      "jump": "https://b.imge.to/2019/08/29/vv0B5i.png"
+    },
+    {
+      "jump": "https://b.imge.to/2019/08/29/vv0uSF.png"
+    }
+    
+    ],
+  
+   "hurt": [
+    
+    
+     {
+      "hurt": "https://a.imge.to/2019/08/29/vv0DcR.png"
+    },
+    {
+      "hurt": "https://a.imge.to/2019/08/29/vv0pnT.png"
+    }
+    
+     ],
+  
+   "die": [
+    
+
+     {
+      "die": "https://c.imge.to/2019/08/29/vv0Www.png"
+    },
+    {
+      "die": "https://c.imge.to/2019/08/29/vv0nBj.png"
+    },
+     {
+      "die": "https://c.imge.to/2019/08/29/vv0Kgh.png"
+    }
+    
+    ],
+  
+   "land": [
+    
+         {
+      "land": "https://a.imge.to/2019/08/29/vv0e9y.png"
+    }
+    
+    ] ,
+  
+   "atck1": [
+    
+    
+    
+         {
+      "atck1": "https://b.imge.to/2019/08/29/vvKUq1.png"
+    },
+    {
+      "atck1": "https://b.imge.to/2019/08/29/vvKjBO.png"
+    },
+     {
+      "atck1": "https://b.imge.to/2019/08/29/vvKg60.png"
+    },
+         {
+      "atck1": "https://c.imge.to/2019/08/29/vvKT96.png"
+    },
+    
+      {
+      "atck1": "https://b.imge.to/2019/08/29/vvKynx.png"
+    },
+    {
+      "atck1": "https://c.imge.to/2019/08/29/vvK4jq.png"
+    },
+     {
+      "atck1": "https://c.imge.to/2019/08/29/vvKqs4.png"
+    },
+         {
+      "atck1": "https://c.imge.to/2019/08/29/vvKIwr.png"
+    }],
+  
+   "atck2": [
+    
+    
+    
+    
+             {
+      "atck2": "https://b.imge.to/2019/08/29/vvKUq1.png"
+    },
+    
+      {
+      "atck2": "https://b.imge.to/2019/08/29/vvK88R.png"
+    },
+    {
+      "atck2": "https://b.imge.to/2019/08/29/vvKANF.png"
+    },
+     {
+      "atck2": "https://b.imge.to/2019/08/29/vvKzsm.png"
+    },
+         {
+      "atck2": "https://b.imge.to/2019/08/29/vvKkzH.png"
+    },
+             {
+      "atck2": "https://b.imge.to/2019/08/29/vvKl9W.png"
+    },
+    
+      {
+      "atck2": "https://c.imge.to/2019/08/29/vvKQoi.png"
+    },
+    {
+      "atck2": "https://c.imge.to/2019/08/29/vvKf0V.png"
+    },
+     {
+      "atck2": "https://c.imge.to/2019/08/29/vvK6ET.png"
+    },
+         {
+      "atck2": "https://b.imge.to/2019/08/29/vvKUq1.png"
+    }
+    
+    
+    ] ,
+  
+   "atck3": [
+    
+           {
+      "atck3": "https://c.imge.to/2019/08/29/vvKX0G.png"
+    }
+    ,
+    
+      {
+      "atck3": "https://c.imge.to/2019/08/29/vvKX0G.png"
+    }
+    ,
+      {
+      "atck3": "https://c.imge.to/2019/08/29/vvKX0G.png"
+    }
+    ,
+      {
+      "atck3": "https://c.imge.to/2019/08/29/vvK9Ex.png"
+    }
+    ,
+      {
+      "atck3": "https://c.imge.to/2019/08/29/vvKYV1.png"
+    }
+    ,
+      {
+      "atck3": "https://c.imge.to/2019/08/29/vvKCxZ.png"
+    }
+    ,
+      {
+      "atck3": "https://c.imge.to/2019/08/29/vvKaR0.png"
+    }
+    ,
+      {
+      "atck3": "https://a.imge.to/2019/08/29/vvK2Aq.png"
+    }
+    ,
+      {
+      "atck3": "https://a.imge.to/2019/08/29/vvKBYr.png"
+    }
+    ,
+      {
+      "atck3": "https://a.imge.to/2019/08/29/vvKu3O.png"
+    } ],
+  
+   "atck4": [
+    
+          {
+      "atck4": "https://c.imge.to/2019/08/29/vvKSAC.png"
+    }
+    ,
+      {
+      "atck4": "https://c.imge.to/2019/08/29/vvKWpk.png"
+    }
+    ,
+      {
+      "atck4": "https://c.imge.to/2019/08/29/vvKG4s.png"
+    }
+],
+
+ "hit1": [
+      
+      {
+      "hit1": "https://b.imge.to/2019/08/29/vvWIpR.png"
+    }
+    
+    ,
+      
+      {
+      "hit1": "https://b.imge.to/2019/08/29/vvWqQj.png"
+    }
+    ,
+      
+      {
+      "hit1": "https://b.imge.to/2019/08/29/vvW3FV.png"
+    }
+    ,
+      
+      {
+      "hit1": "https://b.imge.to/2019/08/29/vvW4JT.png"
+    }
+    ,
+      
+      {
+      "hit1": "https://b.imge.to/2019/08/29/vvWgKi.png"
+    }
+    ,
+      
+      {
+      "hit1": "https://c.imge.to/2019/08/29/vvWc4f.png"
+    }
+    
+    ],
+
+ "hit2": [
+    {
+      "hit2": "https://a.imge.to/2019/08/29/vvW1dy.png"
+    }
+    ,
+    {
+      "hit2": "https://a.imge.to/2019/08/29/vvWZFG.png"
+    },
+        {
+      "hit2": "https://a.imge.to/2019/08/29/vvWLyw.png"
+    },
+        {
+      "hit2": "https://a.imge.to/2019/08/29/vvWdJx.png"
+    },
+        {
+      "hit2": "https://a.imge.to/2019/08/29/vvW57t.png"
+    },
+        {
+      "hit2": "https://a.imge.to/2019/08/29/vvW1dy.png"
+    },
+        {
+      "hit2": "https://b.imge.to/2019/08/29/vvWHWZ.png"
+    }
+    ],
+
+ "hit3": [
+        {
+      "hit3": "https://c.imge.to/2019/08/29/vvWw40.png"
+    }
+        ,
+        {
+      "hit3": "https://c.imge.to/2019/08/29/vvWfyr.png"
+    }
+        ,
+        {
+      "hit3": "https://c.imge.to/2019/08/29/vvWMd6.png"
+    }
+        ,
+        {
+      "hit3": "https://c.imge.to/2019/08/29/vvWzQO.png"
+    }
+        ,
+        {
+      "hit3": "https://c.imge.to/2019/08/29/vvWAhq.png"
+    }
+   ]
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+}
