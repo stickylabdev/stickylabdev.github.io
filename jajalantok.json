@@ -1,14 +1,12 @@
 {
-
-  
-  "alib": [
-    {
-      "judul": "nama arena"
-    },
-    {
-      "code": "alskdjfklsdlfjslkdjflksjflks"
-    } 
-    
-    ]
-    
-    }
+"alib" : [
+{
+"judul" : "blablabla",
+"code": "skrtskrtt"
+},
+{
+"judul" : "blablabla",
+"code": "skrtskrtt"
+}
+]
+}
